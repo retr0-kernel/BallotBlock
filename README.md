@@ -7,8 +7,6 @@ This project is a decentralized application (DApp) for an election voting system
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Secure Voting**: Ensures that each voter can vote only once.
